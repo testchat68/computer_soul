@@ -1,0 +1,10 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=Душата на компютъра
+Comment=Мониторинг на CPU и RAM с душа
+Exec=python3 /home/user/soul_gui.py
+Icon=utilities-system-monitor
+Terminal=false
+Categories=Utility;System;
+StartupNotify=true
