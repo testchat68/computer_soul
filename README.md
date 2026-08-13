@@ -148,9 +148,11 @@ https://freemeteo.bg/weather/london/hourly-forecast/today/?gid=2643743&language=
 - The "soul" (ASCII face + poem) changes color and mood according to CPU + RAM load.
 
 Forever Free for use by everyone: private and/or public and/or business. 
-
 You are free to use as it is or change anything you want depending on your whims.
 
-Any issues, questions or if you are too lazy to do changes: **good.vibes.github@gmail.com**
+Any issues, questions, or if you are too lazy to do the changes yourself:
+good.vibes.github@gmail.com
 
 Enjoy watching your computer's soul.
+
+END
