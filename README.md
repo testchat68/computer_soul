@@ -2,8 +2,6 @@
 
 A lightweight, always-on-top system monitor with personality.
 
-If you are too lazy to do the changes by yourself, than ask me for free help: good.vibes.github@gmail.com
-
 Please see the picture: Soul.jpg
 
 It shows:
@@ -44,6 +42,8 @@ That's it - now you can use the program.
 ---
 
 ## How to change the city / weather location
+
+( If you are too lazy to do the changes by yourself, than ask me for free help: good.vibes.github@gmail.com )
 
 The weather is fetched from the free [Open-Meteo](https://open-meteo.com/) API.
 
