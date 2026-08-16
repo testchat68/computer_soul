@@ -1,6 +1,7 @@
 # The Computer's Soul
 
 A lightweight, always-on-top system monitor with personality.
+
 If you are too lazy to do the changes by yourself, than ask me for free help: good.vibes.github@gmail.com
 
 Please see the picture: Soul.jpg
