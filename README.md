@@ -36,7 +36,7 @@ A lightweight, always-on-top system monitor with personality.
 
 Please see the picture:
 
-![The Computer's Soul](Soul_gui.py.png)
+![The Computer's Soul](Soul_gui.png)
 
 It shows:
 
